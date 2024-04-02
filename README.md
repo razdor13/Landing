@@ -1,1 +1,2 @@
-# MyPortfolio
+Just landing 
+HTML,JS,SCSS,GULP
